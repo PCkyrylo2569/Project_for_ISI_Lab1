@@ -7,7 +7,6 @@ function getYear() {
 
 getYear();
 
-
 //  owl carousel script
 $(".owl-carousel").owlCarousel({
     loop: true,
